@@ -45,7 +45,7 @@ header{
 header h1{
     color: #fff;
     font-family: var(--fonte-destaque);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-family: var(--fonte-padrao);
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.41);
